@@ -1,8 +1,4 @@
 # :round_pushpin: Weather App :earth_africa:
-
-iOS application by:
-
- Ibrahima DANSOKO => https://github.com/IBRAHIMDANS
  
 Developed in Swift.
 ## Description
