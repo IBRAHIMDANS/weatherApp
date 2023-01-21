@@ -3,7 +3,6 @@
 iOS application by:
 
  Ibrahima DANSOKO => https://github.com/IBRAHIMDANS
- </br> Benjamin BENOIT => https://github.com/benjamin-benoit
  
 Developed in Swift.
 ## Description
